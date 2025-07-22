@@ -1,5 +1,5 @@
 # Hi, I'm Prycillia!<br>
-🎓 Second-year Computer Engineering student<br>🌱 Beginner in IT & Cybersecurity<br>💻 Aspiring Cybersecurity Enthusiast<br>🛡️ Exploring the basics of IT and security<br>💭 Always learning, always curious
+🎓 Second-year Computer Engineering student<br>🌱 Beginner in IT & Cybersecurity<br>💻 Cybersecurity Enthusiast<br>🛡️ Exploring the basics of IT and security<br>💭 Always learning, always curious
 
 
 ## 🌐 Socials:
