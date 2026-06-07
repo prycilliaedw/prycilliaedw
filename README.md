@@ -1,18 +1,16 @@
 <div align="center">
 
-# Prycillia Edward
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Prycillia%20Edward&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Indonesia%20🇮🇩&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Turning+raw+data+into+stories;Currently+vibing+to+Fleetwood+Mac;Always+learning%2C+always+building)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<img align="right" alt="Streak Stats" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true"/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3000&pause=1000&color=C9A7EB&center=true&vCenter=true&width=620&lines=✨+Aspiring+Data+Scientist;📊+Turning+raw+data+into+stories;🎵+Currently+vibing+to+Fleetwood+Mac;🌸+Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
+
+<br>
+
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:20px; margin-left:20px;"/>
+
+### 🌸 About Me
 
 ```python
 class DataScienceStudent:
@@ -30,7 +28,7 @@ class DataScienceStudent:
             "🎵 Fleetwood Mac on repeat",
             "🐍 Writing Python at 2AM",
             "🧩 Kaggle rabbit holes",
-            "📚 Hoarding ML papers I'll 'read later'",
+            "📚 Hoarding ML papers I'll read later",
         ]
     
     @property  
@@ -38,43 +36,59 @@ class DataScienceStudent:
         return "Building something cool with data 🚀"
     
     def say_hi(self):
-        print("Let's talk data, music, or both!")
+        print("Let's talk data, music, or both! 🌷")
 
 me = DataScienceStudent()
 me.say_hi()
-# Output: Let's talk data, music, or both!
+# Output: Let's talk data, music, or both! 🌷
 ```
+
+<br clear="right"/>
+
+---
+
+### 🎵 Currently Vibing To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=fce4ec&interchange=false&bar_color=f48fb1&bar_color_cover=false)](https://open.spotify.com/track/65OEiCPMJMbWBkMXJpn9Bh)
+
+*🌊 Landslide — Fleetwood Mac*
+
+</div>
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
+**💜 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C9A7EB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-A8C8F8?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F4A7B9?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B5D5F5?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-D4B8E0?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Data Science & ML**
+**🩷 Data Science & ML**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-F4A7B9?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-A8C8F8?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-C9A7EB?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F9C4D2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-B5D5F5?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-D4B8E0?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-A8C8F8?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms**
+**💙 Tools & Platforms**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F4A7B9?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-B5D5F5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F9C4D2?style=for-the-badge&logo=git&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-A8C8F8?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-C9A7EB?style=for-the-badge&logo=google-colab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-D4B8E0?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
@@ -83,28 +97,37 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=FDF6FF&title_color=C9A7EB&icon_color=F4A7B9&text_color=9B7DB8&border_radius=15"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prycilliaedw&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&bg_color=FDF6FF&title_color=C9A7EB&text_color=9B7DB8&border_radius=15"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=rose_pine&hide_border=true&background=FDF6FF&ring=C9A7EB&fire=F4A7B9&currStreakLabel=9B7DB8&border_radius=15" alt="streak stats"/>
 </div>
 
 ---
 
 ### 🌱 What I'm Up To
 
-```
-📖 Currently Learning  → Deep Learning, Feature Engineering, MLOps
-🔭 Working On          → Dicoding's Boothcamp
-🎯 2026 Goals          → Land my first DS internship, finish 3 end-to-end projects
-💬 Ask me about        → Python, data viz, or why Landslide is a perfect song
-```
+<div align="center">
+
+| | |
+|---|---|
+| 📖 **Currently Learning** | Deep Learning · Feature Engineering · MLOps |
+| 🔭 **Working On** | Dicoding's Bootcamp |
+| 🎯 **2026 Goals** | Land my first DS internship · Finish 3 end-to-end projects |
+| 💬 **Ask me about** | Python · Data viz · Why Landslide is a perfect song |
+
+</div>
 
 ---
 
-### 🎭 Fun Facts
+### 🎀 Fun Facts
 
 > *"I analyze data for fun, but I analyze Fleetwood Mac lyrics for my soul."*
 
-- 🎵 I genuinely believe you code better with Rumours playing in the background
-- 📉 I've trained a model to predict my coffee consumption (spoiler: it's always high)
+- 🎵 I genuinely believe you code better with *Rumours* playing in the background
+- 📉 I've trained a model to predict my coffee consumption *(spoiler: it's always high)*
 - 🌙 My most productive hours are suspiciously late at night
 - 📦 I have 30+ datasets downloaded "for a project I'll definitely start"
 - 🤝 I explain everything with analogies, even when unnecessary
@@ -115,7 +138,7 @@ me.say_hi()
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prycilliaedw&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prycilliaedw&bg_color=FDF6FF&color=C9A7EB&line=F4A7B9&point=9B7DB8&area=true&area_color=EDD9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -125,10 +148,10 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prycillia-edward-19819641)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prycilliaedward)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssychssy@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/prycilliaedward)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C8F8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prycillia-edward-19819641)
+[![Instagram](https://img.shields.io/badge/Instagram-F4A7B9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prycilliaedward)
+[![Gmail](https://img.shields.io/badge/Gmail-C9A7EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssychssy@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-B5D5F5?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/prycilliaedward)
 
 </div>
 
@@ -136,10 +159,14 @@ me.say_hi()
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prycilliaedw&color=00FF88&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=prycilliaedw&color=C9A7EB&style=flat-square&label=Profile+Views)
+
+<br>
 
 *"Well, I've been afraid of changin' 'cause I've built my life around you... but also around Python."* 🌊
 
-**— Landslide-coded, data-driven —**
+**✨ Landslide-coded · data-driven · pastel-powered ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
 
 </div>
