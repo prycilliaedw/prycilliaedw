@@ -8,7 +8,6 @@
 
 <br>
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:20px; margin-left:20px;"/>
 
 ### 🌸 About Me
 
