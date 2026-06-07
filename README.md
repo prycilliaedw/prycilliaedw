@@ -1,21 +1,3 @@
-<div align="center">
-
-```
-██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗███████╗███╗   ██╗ ██████╗███████╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║██╔════╝████╗  ██║██╔════╝██╔════╝
-██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║█████╗  ██╔██╗ ██║██║     █████╗  
-██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║██╔══╝  ██║╚██╗██║██║     ██╔══╝  
-██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║███████╗██║ ╚████║╚██████╗███████╗
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-```
-
-</div>
-
-<div align="center">
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%5BNAME+KAMU%5D+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%93%8A;Turning+raw+data+into+stories+%E2%9C%A8;Currently+vibing+to+Fleetwood+Mac+%F0%9F%8E%B5;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
-
 </div>
 
 ---
