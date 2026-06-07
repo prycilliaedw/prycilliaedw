@@ -122,7 +122,7 @@ me.say_hi()
 ```
 📖 Currently Learning  → Deep Learning, Feature Engineering, MLOps
 🔭 Working On          → Dicoding's Boothcamp
-🎯 2025 Goals          → Land my first DS internship, finish 3 end-to-end projects
+🎯 2026 Goals          → Land my first DS internship, finish 3 end-to-end projects
 💬 Ask me about        → Python, data viz, or why Landslide is a perfect song
 ```
 
