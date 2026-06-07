@@ -95,7 +95,6 @@ me.say_hi()
 
 
 | | |
-|---|---|
 | 📖 **Currently Learning** | Deep Learning · Feature Engineering · MLOps |
 | 🔭 **Working On** | Dicoding's Bootcamp |
 | 🎯 **2026 Goals** | Land my first DS internship · Finish 3 end-to-end projects |
