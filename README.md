@@ -2,7 +2,10 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF 1" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF 2" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true"/>
+
+### 🧠 About Me
 
 ### 🧠 About Me
 
@@ -42,11 +45,11 @@ me.say_hi()
 ### 🎵 Currently Vibing To
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t50exs6dec9thsloyetpc0v64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/65OEiCPMJMbWBkMXJpn9Bh)
-
-*🌊 Landslide — Fleetwood Mac*
-
+  <a href="https://open.spotify.com/user/t50exs6dec9thsloyetpc0v64" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t50exs6dec9thsloyetpc0v64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+  <br>
+  <em>Landslide — Fleetwood Mac</em>
 </div>
 
 ---
@@ -89,12 +92,12 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prycilliaedw&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="streak stats"/>
 </div>
 
 ---
