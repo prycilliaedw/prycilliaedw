@@ -84,11 +84,6 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=FDF6FF&title_color=C9A7EB&icon_color=F4A7B9&text_color=9B7DB8&border_radius=15"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prycilliaedw&layout=compact&langs_count=7&theme=rose_pine&hide_border=true&bg_color=FDF6FF&title_color=C9A7EB&text_color=9B7DB8&border_radius=15"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=rose_pine&hide_border=true&background=FDF6FF&ring=C9A7EB&fire=F4A7B9&currStreakLabel=9B7DB8&border_radius=15" alt="streak stats"/>
 </div>
 
@@ -98,10 +93,10 @@ me.say_hi()
 
 <div align="center">
 
-📖 **Currently Learning**  Deep Learning · Feature Engineering · MLOps 
-🔭 **Working On**  Dicoding's Bootcamp 
-🎯 **2026 Goals**  Land my first DS internship · Finish 3 end-to-end projects 
-💬 **Ask me about**  Python · Data viz · Why Landslide is a perfect song 
+📖 **Currently Learning** | Deep Learning · Feature Engineering · MLOps 
+🔭 **Working On** | Dicoding's Bootcamp 
+🎯 **2026 Goals** | Land my first DS internship · Finish 3 end-to-end projects 
+💬 **Ask me about** | Python · Data viz · Why Landslide is a perfect song 
 
 </div>
 
