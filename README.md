@@ -90,15 +90,15 @@ me.say_hi()
 ---
 
 ### 🌱 What I'm Up To
-
-<div align="center">
-📖 **Currently Learning** — Deep Learning · Feature Engineering · MLOps 
-🔭 **Working On** — Dicoding's Bootcamp 
-🎯 **2026 Goals** — Land my first DS internship · Finish 3 end-to-end projects 
-💬 **Ask me about** — Python · Data viz · Why Landslide is a perfect song 
-</div>
+ 
+```
+📖 Currently Learning  →  Deep Learning · Feature Engineering · MLOps
+🔭 Working On          →  Dicoding's Bootcamp
+🎯 2026 Goals          →  Land my first DS internship · Finish 3 end-to-end projects
+💬 Ask me about        →  Python · Data viz · Why Landslide is a perfect song
+```
+ 
 ---
-
 ### 🎀 Fun Facts
 
 > *"I analyze data for fun, but I analyze Fleetwood Mac lyrics for my soul."*
