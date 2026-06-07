@@ -1,3 +1,17 @@
+<div align="center">
+
+# Prycillia Edward
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Turning+raw+data+into+stories;Currently+vibing+to+Fleetwood+Mac;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Streak Stats" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true"/>
+
+
 </div>
 
 ```python
