@@ -3,11 +3,7 @@
 ---
 
 <img align="right" alt="Coding GIF 1" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<img align="right" alt="Coding GIF 2" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true"/>
 
-### 🧠 About Me
-
-### 🧠 About Me
 
 ```python
 class DataScienceStudent:
