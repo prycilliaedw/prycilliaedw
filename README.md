@@ -103,11 +103,11 @@ me.say_hi()
 
 > *"I analyze data for fun, but I analyze Fleetwood Mac lyrics for my soul."*
 
-- 🎵 I genuinely believe you code better with *Rumours* playing in the background
-- 📉 I've trained a model to predict my coffee consumption *(spoiler: it's always high)*
-- 🌙 My most productive hours are suspiciously late at night
-- 📦 I have 30+ datasets downloaded "for a project I'll definitely start"
-- 🤝 I explain everything with analogies, even when unnecessary
+🎵 I genuinely believe you code better with *Rumours* playing in the background
+📉 I've trained a model to predict my coffee consumption *(spoiler: it's always high)*
+🌙 My most productive hours are suspiciously late at night
+📦 I have 30+ datasets downloaded "for a project I'll definitely start"
+🤝 I explain everything with analogies, even when unnecessary
 
 ---
 
