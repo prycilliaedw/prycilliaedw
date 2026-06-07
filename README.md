@@ -73,9 +73,11 @@ me.say_hi()
 
 ### 📊 GitHub Stats
 
+### GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prycilliaedw&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prycilliaedw&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true" height="180" />
 </div>
 
 <div align="center">
