@@ -7,8 +7,6 @@
 </div>
 
 <br>
-
-
 ### 🌸 About Me
 
 ```python
@@ -24,7 +22,7 @@ class DataScienceStudent:
         return [
             "☕ Coffee (obviously)",
             "📊 Making dashboards nobody asked for",
-            "🎵 Fleetwood Mac on repeat",
+            "🎵 Landslide-Fleetwood Mac on repeat",
             "🐍 Writing Python at 2AM",
             "🧩 Kaggle rabbit holes",
             "📚 Hoarding ML papers I'll read later",
