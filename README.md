@@ -36,20 +36,6 @@ me.say_hi()
 # Output: Let's talk data, music, or both!
 ```
 
----
-
-### 🎵 Currently Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/t50exs6dec9thsloyetpc0v64" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t50exs6dec9thsloyetpc0v64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
-  <br>
-  <em>Landslide — Fleetwood Mac</em>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
