@@ -113,7 +113,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C8F8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prycillia-edward-19819641)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A8C8F8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prycilliaedward)
 [![Instagram](https://img.shields.io/badge/Instagram-F4A7B9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prycilliaedward)
 [![Gmail](https://img.shields.io/badge/Gmail-C9A7EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssychssy@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-B5D5F5?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/prycilliaedward)
