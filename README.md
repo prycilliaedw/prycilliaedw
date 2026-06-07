@@ -8,8 +8,6 @@
 
 <br>
 
-### 🌸 About Me
-
 ```python
 class DataScienceStudent:
     def __init__(self):
