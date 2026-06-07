@@ -46,18 +46,6 @@ me.say_hi()
 
 ---
 
-### 🎵 Currently Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=fce4ec&interchange=false&bar_color=f48fb1&bar_color_cover=false)](https://open.spotify.com/track/65OEiCPMJMbWBkMXJpn9Bh)
-
-*🌊 Landslide — Fleetwood Mac*
-
-</div>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
