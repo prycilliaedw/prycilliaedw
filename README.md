@@ -1,10 +1,5 @@
 </div>
 
----
-
-<img align="right" alt="Coding GIF 1" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-
 ```python
 class DataScienceStudent:
     def __init__(self):
@@ -72,13 +67,6 @@ me.say_hi()
 ---
 
 ### 📊 GitHub Stats
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prycilliaedw&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true" height="180" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="streak stats"/>
