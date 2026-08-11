@@ -8,6 +8,17 @@
 
 <br>
 
+### 🌷 About Me
+
+- 🎓 IT Student from Indonesia 🇮🇩, currently diving deep into Data Science & Machine Learning
+- 🔭 Right now, I'm building small ML/data projects and sharpening my Kaggle skills
+- 🌱 Learning: Deep Learning, MLOps basics, and how to write cleaner Python
+- 💬 Ask me about: pandas, dashboards, or which Fleetwood Mac song fits your dataset's mood
+- 📫 Reach me: ssychssy@gmail.com
+- ⚡ Fun fact: my best debugging happens at 2AM with coffee #3
+
+<br>
+
 ```python
 class ITStudent:
     def __init__(self):
@@ -21,7 +32,7 @@ class ITStudent:
         return [
             "☕ Coffee (obviously)",
             "📊 Making dashboards nobody asked for",
-            "🎵 Landslide-Fleetwood Mac on repeat",
+            "🎵 Landslide - Fleetwood Mac on repeat",
             "🐍 Writing Python at 2AM",
             "🧩 Kaggle rabbit holes",
             "📚 Hoarding ML papers I'll read later",
@@ -34,7 +45,7 @@ class ITStudent:
     def say_hi(self):
         print("Let's talk data, music, or both! 🌷")
 
-me = DataScienceStudent()
+me = ITStudent()
 me.say_hi()
 # Output: Let's talk data, music, or both! 🌷
 ```
@@ -78,13 +89,44 @@ me.say_hi()
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌸 *[Your Project Name]* | Short one-line description of what it does | `Python` `Pandas` |
+| 📊 *[Your Project Name]* | Short one-line description of what it does | `Scikit-learn` |
+| 🧩 *[Your Project Name]* | Short one-line description of what it does | `TensorFlow` |
+
+*(swap these in with your actual repos — happy to help write the descriptions if you tell me about them!)*
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prycilliaedw&show_icons=true&theme=default&bg_color=FDF6FF&title_color=C9A7EB&icon_color=F4A7B9&text_color=9B7DB8&hide_border=true" alt="GitHub stats"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prycilliaedw&theme=rose_pine&hide_border=true&background=FDF6FF&ring=C9A7EB&fire=F4A7B9&currStreakLabel=9B7DB8&border_radius=15" alt="streak stats"/>
 </div>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prycilliaedw&theme=flat&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers&bg-color=FDF6FF&title-color=C9A7EB&icon-color=F4A7B9&text-color=9B7DB8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -114,7 +156,7 @@ me.say_hi()
 
 <br>
 
-*"Well, I've been afraid of changin' 'cause I've built my life around you... but also around Python."* 🌊
+*Still figuring out what to build next, still humming the same old song while I do it.* 🌊
 
 **✨ Landslide-coded · Data-driven ✨**
 
