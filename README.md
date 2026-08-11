@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Prycillia%20Edward&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Forever%20a%20Learner&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Prycillia%20Edward&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forever%20a%20Learner&descAlignY=60&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3000&pause=1000&color=C9A7EB&center=true&vCenter=true&width=620&lines=✨+Aspiring+Data+Scientist;📊+Turning+raw+data+into+stories;🎵+Currently+vibing+to+Fleetwood+Mac;🌸+Always+learning%2C+always+building)](https://git.io/typing-svg)
 
@@ -9,10 +9,10 @@
 <br>
 
 ```python
-class DataScienceStudent:
+class ITStudent:
     def __init__(self):
         self.name        = "Prycillia Edward"
-        self.role        = "Data Science Student"
+        self.role        = "IT Student"
         self.location    = "Indonesia 🇮🇩"
         self.status      = "Debugging life, one model at a time"
         
