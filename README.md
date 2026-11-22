@@ -87,24 +87,6 @@ me.say_hi()
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| 🌸 *[Your Project Name]* | Short one-line description of what it does | `Python` `Pandas` |
-| 📊 *[Your Project Name]* | Short one-line description of what it does | `Scikit-learn` |
-| 🧩 *[Your Project Name]* | Short one-line description of what it does | `TensorFlow` |
-
-*(swap these in with your actual repos — happy to help write the descriptions if you tell me about them!)*
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
